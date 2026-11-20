@@ -2,8 +2,8 @@
 
 Project page for **O²LaF: Repurposing Video Priors for Self-Supervised Latent Action Learning**.
 
-- Project page: https://showlab.github.io/O2LaF/
-- Paper: https://arxiv.org/abs/2602.10104
+- Project page: https://showlab.github.io/o2laf/
+- Paper: https://arxiv.org/abs/2611.26617
 - Code: https://github.com/showlab/O2LaF
 - Models: https://huggingface.co/YuxinJ/O2LaF
 
